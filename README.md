@@ -1,3 +1,5 @@
+Forked version of SerialPort-GSM updated to Serialport 8.0.7
+
 # Node SerialPort-GSM
 [![NPM](https://nodei.co/npm/serialport-gsm.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/serialport-gsm/)
 
